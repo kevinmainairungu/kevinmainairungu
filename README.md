@@ -10,5 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about Android
 - 📫 How to reach me: mainairungu99@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: anti tech
