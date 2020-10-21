@@ -1,6 +1,4 @@
-### Hi there 👋
-
-##### Kevin here...
+### Hi there Kevin here ...👋
 
 - 🔭 I’m currently working on https://play.google.com/store/apps/details?id=com.ekitabu.ereader&hl=en
 - 🌱 I’m currently learning Android
